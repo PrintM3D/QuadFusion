@@ -6,5 +6,8 @@ This repository will contain:
   Community supported slicer profiles and SD content
   An updated Wiki, potentially, and 3D printed files, in time
 
-To find pointers to all M3D documentation and sites please visit https://store.printm3d.com/pages/support.
+## Important Links
+* [Official Documentation](https://quadfusion.printm3d.com)
+* [Pointers to all M3D documentation](https://store.printm3d.com/pages/support)
+
 
